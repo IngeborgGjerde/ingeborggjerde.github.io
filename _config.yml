@@ -1,2 +1,4 @@
-name: Ingeborg Gjerde
-markdown: kramdown
+theme: jekyll-theme-minimal
+title: Ingeborg Gjerde
+description: <img align="center" width="207.34" height="250" src="meg.jpg"><br><br> I am a postdoc at Simula Research Laboratory working on fluid mechanics and the waterscape of the brain.
+
