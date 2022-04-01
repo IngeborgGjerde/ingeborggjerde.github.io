@@ -2,18 +2,25 @@
 Postdoctoral research fellow working on theoretical and computational fluid dynamics. My research spans from instability and bifurcation analysis to biomedical simulation. Passionate about using mathematics to understand real-world problems. Currently mystified by fluid flow in the brain and its role in preventing Alzheimer’s disease. 
 
 ## Education 
-- **Ph.D.**, Applied Mathematics, University of Bergen, April 2020
-- **M.A.**,  Industrial Mathematics, NTNU, July 2016
+- **Ph.D.**, Applied Mathematics, University of Bergen, April 2020 <br />
+Thesis title: [Analysis and approximation of coupled 1D-3D flow models](https://bora.uib.no/bora-xmlui/handle/1956/21793) <br />
+PhD interview available [here](https://vimeo.com/667198155) 
+
+- **M.A.**,  Industrial Mathematics, NTNU, July 2016 <br />
+Thesis title: [Simulations of Underground Storage of Natural Gas](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2405993)
 
 ## Work Experience
 - **Postdoc**, Simula Research Laboratory
 - **Summer intern**, software developer, Anacon Consulting
 - **Summer intern**, design engineer, Aker Solutions
 
-## Research Interests 
--  **Mathematical modelling of the brain's waterscape**
--  **Mixed-dimensional models** for perivascular fluid flow
--  **Fluid dynamics** and instabilities
+
+## Teaching and supervision ##
+- **Volunteer tutor**, [Red Cross homework help](https://www.rodekors.no/lokalforeninger/oslo/aktiviteter/barn-og-unge/leksehjelp/)
+- **Co-lecturer 2021**, [Problem-solving with higher-level languages](https://uio-in3110.github.io/)  (IN3110/IN4110)
+- **Co-lecturer 2021**, Simula Summer School in Computational Physiology (SSCP)
+- ** Advisor** for student project at SSCP. Project group: Nanna Berre, Gabriela Castro, Henrik Kjeldsberg, Rami Masri
+- ** Advisor**, master thesis, [Simulation of Flow and Mechanics in the Brain](https://bora.uib.no/bora-xmlui/handle/1956/20035) by Nadia Emilie Skoglund
 
 ## Publications and Preprints  
 - **The Stokes paradox for flow in unbounded domains** 
@@ -64,3 +71,5 @@ Ingeborg G. Gjerde, Kundan Kumar, Jan M. Nordbotten and Barbara Wohlmuth
 - [**Well modeling by means of coupled 1D-3D flow models**](https://www.earthdoc.org/content/papers/10.3997/2214-4609.201802117)
 Ingeborg G. Gjerde, Kundan Kumar and Jan M. Nordbotten
 *ECMOR Conference Proceedings (2017)*
+
+
