@@ -1,13 +1,10 @@
 ## About me
 Postdoctoral research fellow working on theoretical and computational fluid dynamics. My research spans from instability and bifurcation analysis to biomedical simulation. Passionate about using mathematics to understand real-world problems. Currently mystified by fluid flow in the brain and its role in preventing Alzheimer’s disease. 
 
-
-
 ## Education 
 - **Ph.D.**, Applied Mathematics, University of Bergen, April 2020 <br />
 Thesis: [Analysis and approximation of coupled 1D-3D flow models](https://bora.uib.no/bora-xmlui/handle/1956/21793) <br />
 PhD interview available [here](https://vimeo.com/667198155) 
-
 - **M.Sc.**,  Industrial Mathematics, NTNU, July 2016 <br />
 Thesis: [Simulations of underground storage of natural gas](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2405993)
 
@@ -17,12 +14,11 @@ Thesis: [Simulations of underground storage of natural gas](https://ntnuopen.ntn
 - **Summer intern**, software developer, Anacon Consulting (2015)
 - **Summer intern**, design engineer, Aker Solutions (2014)
 
-
 ## Teaching and supervision ##
+- **Course administrator/lecturer 2022**, [Problem-solving with higher-level languages](https://uio-in3110.github.io/)  (IN3110/IN4110)
+- **Lecturer 2021&2022**, Simula Summer School in Computational Physiology (SSCP)
 - **Volunteer tutor**, [Red Cross homework help](https://www.rodekors.no/lokalforeninger/oslo/aktiviteter/barn-og-unge/leksehjelp/)
-- **Co-lecturer 2021**, [Problem-solving with higher-level languages](https://uio-in3110.github.io/)  (IN3110/IN4110)
-
-- **Co-lecturer 2021**, Simula Summer School in Computational Physiology (SSCP)
+- **Lecturer 2021**, [Problem-solving with higher-level languages](https://uio-in3110.github.io/)  (IN3110/IN4110)
 - **Advisor** for student project at SSCP. <br />
 Project group: Nanna Berre, Gabriela Castro, Henrik Kjeldsberg, Rami Masri
 - **Advisor**, master thesis
@@ -39,7 +35,7 @@ Ingeborg G. Gjerde and L. Ridgway Scott <br />
 
 - **Geometrically reduced modeling of pulsatile flow in perivascular networks** <br />
 Cecile Daversin-Catty, Ingeborg G. Gjerde, Marie E. Rognes <br />
-*(in review)*
+Frontiers in Physics, 2022
 
 - **Kinetic-energy instability of flows with slip boundary conditions**<br />
 Ingeborg G. Gjerde and L. Ridgway Scott<br />
