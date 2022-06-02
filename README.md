@@ -37,7 +37,7 @@ Ingeborg G. Gjerde and L. Ridgway Scott <br />
 Cecile Daversin-Catty, Ingeborg G. Gjerde, Marie E. Rognes <br />
 Frontiers in Physics, 2022
 
-- **Kinetic-energy instability of flows with slip boundary conditions**<br />
+- [**Kinetic-energy instability of flows with slip boundary conditions**](https://people.cs.uchicago.edu/~ridg/finrevdfss.pdf)<br />
 Ingeborg G. Gjerde and L. Ridgway Scott<br />
 Journal of Mathematical Fluid Mechanics *(in press)*
 
