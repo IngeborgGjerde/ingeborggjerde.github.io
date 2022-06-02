@@ -41,13 +41,13 @@ Frontiers in Physics, 2022
 Ingeborg G. Gjerde and L. Ridgway Scott<br />
 Journal of Mathematical Fluid Mechanics *(in press)*
 
-- **A computational study of flow instabilities in aneurysms**<br />
+- [**A computational study of flow instabilities in aneurysms**](https://link.springer.com/chapter/10.1007/978-3-031-05164-7_6)<br />
 Nanna Berre, Gabriela Castro, Henrik Kjeldsberg, Rami Masri and Ingeborg G. Gjerde <br />
-*SSCP Simula SpringerBrief on Computing: Reports on Computational Physiology (in press)*
+*SSCP Simula SpringerBrief on Computing: Reports on Computational Physiology*
 
 - [**Nitsche’s method for Navier-Stokes equations with slip boundary conditions**](https://www.ams.org/journals/mcom/2022-91-334/S0025-5718-2021-03682-0/)<br />
  Ingeborg G. Gjerde and L. Ridgway Scott<br />
-*Mathematics of Computation (published online)*
+*Math. Comp. 91 (2022), 597-622*
 
 - [**Lower bounds for the error in Nitsche’s method for the Navier-Stokes equations with slip boundary conditions**](https://newtraell.cs.uchicago.edu/files/tr_authentic/TR-2021-09.pdf)<br />
 Ingeborg Gjerde and L. Ridgway Scott<br />
