@@ -25,13 +25,9 @@ Project group: Nanna Berre, Gabriela Castro, Henrik Kjeldsberg, Rami Masri
 <br /> [Simulation of Flow and Mechanics in the Brain](https://bora.uib.no/bora-xmlui/handle/1956/20035) by Nadia Emilie Skoglund
 
 ## Publications and Preprints  
-- **The Stokes paradox for flow in unbounded domains** <br />
-Ingeborg G. Gjerde and L. Ridgway Scott<br />
-*(submitted)*
-
-- **Resolution of D’Alembert’s paradox using slip boundary conditions: Impact of friction parameter on drag** <br />
+- [**Resolution of D’Alembert’s paradox using slip boundary conditions: Impact of friction parameter on drag**](https://arxiv.org/abs/2204.12240) <br />
 Ingeborg G. Gjerde and L. Ridgway Scott <br />
-*(submitted)*
+*https://arxiv.org/abs/2204.12240*
 
 - [**Geometrically reduced modeling of pulsatile flow in perivascular networks**](https://www.frontiersin.org/articles/10.3389/fphy.2022.882260/full) <br />
 Cecile Daversin-Catty, Ingeborg G. Gjerde, Marie E. Rognes <br />
