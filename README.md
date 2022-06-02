@@ -33,7 +33,7 @@ Ingeborg G. Gjerde and L. Ridgway Scott<br />
 Ingeborg G. Gjerde and L. Ridgway Scott <br />
 *(submitted)*
 
-- **Geometrically reduced modeling of pulsatile flow in perivascular networks** <br />
+- [**Geometrically reduced modeling of pulsatile flow in perivascular networks**](https://www.frontiersin.org/articles/10.3389/fphy.2022.882260/full) <br />
 Cecile Daversin-Catty, Ingeborg G. Gjerde, Marie E. Rognes <br />
 Frontiers in Physics, 2022
 
