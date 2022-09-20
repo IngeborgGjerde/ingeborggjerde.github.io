@@ -25,7 +25,7 @@ Project group: Nanna Berre, Gabriela Castro, Henrik Kjeldsberg, Rami Masri
 <br /> [Simulation of Flow and Mechanics in the Brain](https://bora.uib.no/bora-xmlui/handle/1956/20035) by Nadia Emilie Skoglund
 
 ## Publications and Preprints
-- [**Inducing Flow Instabilities in Aneurysm Geometries via the Reynolds-Orr Method**]
+- **Inducing Flow Instabilities in Aneurysm Geometries via the Reynolds-Orr Method**
 Alessandro Contri, Christina Taylor, Justin Tso and Ingeborg Gjerde (submitted)
 
 - [**Resolution of D’Alembert’s paradox using slip boundary conditions: Impact of friction parameter on drag**](https://arxiv.org/abs/2204.12240) <br />
