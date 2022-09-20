@@ -24,7 +24,10 @@ Project group: Nanna Berre, Gabriela Castro, Henrik Kjeldsberg, Rami Masri
 - **Advisor**, master thesis
 <br /> [Simulation of Flow and Mechanics in the Brain](https://bora.uib.no/bora-xmlui/handle/1956/20035) by Nadia Emilie Skoglund
 
-## Publications and Preprints  
+## Publications and Preprints
+- [**Inducing Flow Instabilities in Aneurysm Geometries via the Reynolds-Orr Method**]
+Alessandro Contri, Christina Taylor, Justin Tso and Ingeborg Gjerde (submitted)
+
 - [**Resolution of D’Alembert’s paradox using slip boundary conditions: Impact of friction parameter on drag**](https://arxiv.org/abs/2204.12240) <br />
 Ingeborg G. Gjerde and L. Ridgway Scott <br />
 *https://arxiv.org/abs/2204.12240*
@@ -35,11 +38,11 @@ Frontiers in Physics, 2022
 
 - [**Kinetic-energy instability of flows with slip boundary conditions**](https://people.cs.uchicago.edu/~ridg/finrevdfss.pdf)<br />
 Ingeborg G. Gjerde and L. Ridgway Scott<br />
-Journal of Mathematical Fluid Mechanics *(in press)*
+J. Math. Fluid Mech. 24, 97 (2022)
 
 - [**A computational study of flow instabilities in aneurysms**](https://link.springer.com/chapter/10.1007/978-3-031-05164-7_6)<br />
 Nanna Berre, Gabriela Castro, Henrik Kjeldsberg, Rami Masri and Ingeborg G. Gjerde <br />
-*SSCP Simula SpringerBrief on Computing: Reports on Computational Physiology*
+*Computational Physiology. Simula SpringerBriefs on Computing(), vol 12. Springer*
 
 - [**Nitsche’s method for Navier-Stokes equations with slip boundary conditions**](https://www.ams.org/journals/mcom/2022-91-334/S0025-5718-2021-03682-0/)<br />
  Ingeborg G. Gjerde and L. Ridgway Scott<br />
