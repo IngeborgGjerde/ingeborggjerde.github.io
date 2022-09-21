@@ -1,7 +1,7 @@
 ## About me
-Research engineer working on theoretical and computational fluid dynamics. I also lecture in one of the largest programming courses at the University of Oslo, where we teach essential tools to for quick and efficient programming in Python.
+Research engineer working on theoretical and computational fluid dynamics. My research spans from instability and bifurcation analysis to biomedical simulation. I also lecture programming at the University of Oslo and organize the *Coffee and Theorems* seminar at Simula. 
 
-My research spans from instability and bifurcation analysis to biomedical simulation. I'm passionate about using mathematics to understand real-world problems. Currently mystified by fluid flow in the brain and its role in preventing Alzheimer’s disease. 
+I'm passionate about using mathematics to understand real-world problems. One day I want to understand fluid flow in the brain and its association with Alzheimer's disease.
 
 ## Education 
 - **Ph.D.**, Applied Mathematics, University of Bergen, April 2020 <br />
@@ -12,7 +12,7 @@ Thesis: [Simulations of underground storage of natural gas](https://ntnuopen.ntn
 
 ## Work experience
 - **Research engineer**, Simula Research Laboratory (2022-present)
-- **Postdoc**, Simula Research Laboratory (2020-2022)
+-  **Postdoc**, Simula Research Laboratory (2020-2022)
 - **PhD Candidate**, University of Bergen (2016-2019)
 - **Summer intern**, software developer, Anacon Consulting (2015)
 - **Summer intern**, design engineer, Aker Solutions (2014)
@@ -21,16 +21,14 @@ Thesis: [Simulations of underground storage of natural gas](https://ntnuopen.ntn
 - **Lecturer**, [IN3110/IN4110: Problem-solving with higher-level languages](https://uio-in3110.github.io/)  at University of Oslo (2021-2022)
 - **Lecturer**, Simula Summer School in Computational Physiology (2021-2022)
 - **Volunteer tutor**, [Red Cross homework help](https://www.rodekors.no/lokalforeninger/oslo/aktiviteter/barn-og-unge/leksehjelp/)
-
-- **Project advisor**, Simula Summer School in Computational Physiology <br />
+- **Project advisor**, Simula Summer School in Computational Physiology
     - Project group 2021: Nanna Berre, Gabriela Castro and Henrik Kjeldsberg, Rami Masri
     - Project group 2022: Alessandro Contri, Christina Taylor and Justin Tso
 - **Advisor**, master thesis, University of Bergen (2019)
 <br /> [Simulation of Flow and Mechanics in the Brain](https://bora.uib.no/bora-xmlui/handle/1956/20035) by Nadia Emilie Skoglund
 
 ## Publications and Preprints
-- **Inducing flow instabilities in aneurysm geometries via the Reynolds-Orr method**
-
+- **Inducing flow instabilities in aneurysm geometries via the Reynolds-Orr method** <br />
 Alessandro Contri, Christina Taylor, Justin Tso and Ingeborg Gjerde (submitted)
 
 - [**Resolution of D’Alembert’s paradox using slip boundary conditions: Impact of friction parameter on drag**](https://arxiv.org/abs/2204.12240) <br />
