@@ -30,6 +30,7 @@ Thesis: [Simulations of underground storage of natural gas](https://ntnuopen.ntn
 
 ## Publications and Preprints
 - **Inducing flow instabilities in aneurysm geometries via the Reynolds-Orr method**
+
 Alessandro Contri, Christina Taylor, Justin Tso and Ingeborg Gjerde (submitted)
 
 - [**Resolution of D’Alembert’s paradox using slip boundary conditions: Impact of friction parameter on drag**](https://arxiv.org/abs/2204.12240) <br />
