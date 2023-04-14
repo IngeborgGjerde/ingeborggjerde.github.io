@@ -28,16 +28,16 @@ Thesis: [Simulations of underground storage of natural gas](https://ntnuopen.ntn
 <br /> [Simulation of Flow and Mechanics in the Brain](https://bora.uib.no/bora-xmlui/handle/1956/20035) by Nadia Emilie Skoglund
 
 ## Publications and Preprints
+- [**Inducing Flow Instabilities in Aneurysm Geometries via the Reynolds-Orr Method**](https://link.springer.com/chapter/10.1007/978-3-031-25374-4_6)<br />
+Alessandro Contri, Christina Taylor, Justin Tso and Ingeborg Gjerde <br />
+*Computational Physiology: Simula Summer School 2022− Student Reports, p. 79-89*
+
 - [**New Insights on the Stokes Paradox for Flow in Unbounded Domains**](https://arxiv.org/abs/2301.00039) <br />
 Ingeborg G. Gjerde and L. Ridgway Scott <br />
 *https://arxiv.org/abs/2301.00039*
 
 - [**Graphnics: Combining FEniCS and NetworkX to simulate flow in complex networks**](https://arxiv.org/abs/2212.02916) <br />
 Ingeborg G. Gjerde <br />
-*https://arxiv.org/abs/2212.02916*
-
-- **Inducing flow instabilities in aneurysm geometries via the Reynolds-Orr method** <br />
-Alessandro Contri, Christina Taylor, Justin Tso and Ingeborg Gjerde (submitted)
 
 - [**Resolution of D’Alembert’s paradox using slip boundary conditions: Impact of friction parameter on drag**](https://arxiv.org/abs/2204.12240) <br />
 Ingeborg G. Gjerde and L. Ridgway Scott <br />
