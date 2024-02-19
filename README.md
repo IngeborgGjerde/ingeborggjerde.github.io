@@ -1,7 +1,6 @@
 ## About me
-Research engineer working on theoretical and computational fluid dynamics. My research spans from instability and bifurcation analysis to biomedical simulation. I also lecture programming at the University of Oslo and organize the *Coffee and Theorems* seminar at Simula. 
 
-I'm passionate about using mathematics to understand real-world problems. One day I want to understand fluid flow in the brain and its association with Alzheimer's disease.
+Developer working at the Norwegian Geotechnical Institute. Hobby researcher working on everything from instability and bifurcation analysis to biomedical simulation.
 
 ## Education 
 - **Ph.D.**, Applied Mathematics, University of Bergen, April 2020 <br />
@@ -11,13 +10,15 @@ PhD interview available [here](https://vimeo.com/667198155)
 Thesis: [Simulations of underground storage of natural gas](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2405993)
 
 ## Work experience
-- **Research engineer**, Simula Research Laboratory (2022-present)
+- **Developer**, Norwegian Geotechnical Institute (2024-present)
+- **Research engineer**, Simula Research Laboratory (2022-2024)
 -  **Postdoc**, Simula Research Laboratory (2020-2022)
 - **PhD Candidate**, University of Bergen (2016-2019)
 - **Summer intern**, software developer, Anacon Consulting (2015)
 - **Summer intern**, design engineer, Aker Solutions (2014)
 
 ## Teaching and supervision ##
+- **Administrator**, Code Academy at the Norwegian Geotechnical Institute (2024-present)
 - **Lecturer**, [IN3110/IN4110: Problem-solving with higher-level languages](https://uio-in3110.github.io/)  at University of Oslo (2021-2022)
 - **Lecturer**, Simula Summer School in Computational Physiology (2021-2022)
 - **Volunteer tutor**, [Red Cross homework help](https://www.rodekors.no/lokalforeninger/oslo/aktiviteter/barn-og-unge/leksehjelp/)
